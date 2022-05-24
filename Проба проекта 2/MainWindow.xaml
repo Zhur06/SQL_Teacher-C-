@@ -37,10 +37,15 @@
                     </RichTextBox.Resources>
                     <FlowDocument>
                         <Paragraph FontFamily="Consolas" xml:space="preserve">SELECT *
-FROM ;</Paragraph>
+FROM 
+WHERE 
+GROUP BY 
+HAVING 
+ORDER BY 
+LIMIT ;</Paragraph>
                     </FlowDocument>
                 </RichTextBox>
-                <Button Click="ForceFormatting" Grid.Row="1">Go</Button>
+                <Button Click="ForceFormatting" HorizontalAlignment="Right" VerticalAlignment="Top" Content ="Подсветить"/>
                 <Button Content="Выполнить" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
 
             </StackPanel>
