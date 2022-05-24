@@ -19,3 +19,4 @@ C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба пр
 C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.pdb
 C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.genruntimeconfig.cache
 C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\ref\Проба проекта 2.dll
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\bin\Debug\net6.0-windows\Проба проекта 2.dll.config
