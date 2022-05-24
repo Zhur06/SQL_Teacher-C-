@@ -1,0 +1,21 @@
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\bin\Debug\net6.0-windows\Проба проекта 2.exe
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\bin\Debug\net6.0-windows\Проба проекта 2.deps.json
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\bin\Debug\net6.0-windows\Проба проекта 2.runtimeconfig.json
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\bin\Debug\net6.0-windows\Проба проекта 2.dll
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\bin\Debug\net6.0-windows\Проба проекта 2.pdb
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.csproj.AssemblyReference.cache
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2_MarkupCompile.cache
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2_MarkupCompile.lref
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.g.resources
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.AssemblyInfoInputs.cache
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.AssemblyInfo.cs
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.csproj.CoreCompileInputs.cache
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.dll
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\refint\Проба проекта 2.dll
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.pdb
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\Проба проекта 2.genruntimeconfig.cache
+C:\Users\zhur0\source\repos\C# tests\Проба проекта 2\Проба проекта 2\obj\Debug\net6.0-windows\ref\Проба проекта 2.dll
